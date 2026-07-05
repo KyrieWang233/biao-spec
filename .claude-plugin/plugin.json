@@ -1,0 +1,11 @@
+{
+  "name": "biao-spec",
+  "version": "0.1.0",
+  "description": "轻量 SDD 技能对：访谈澄清需求 → 落盘可审 spec → 拆可执行计划。纯 Markdown，零脚本零 hook。",
+  "author": {
+    "name": "kyriewang"
+  },
+  "homepage": "https://github.com/kyriewang/biao-spec",
+  "license": "MIT",
+  "keywords": ["sdd", "spec-driven-development", "brainstorm", "planning", "requirements"]
+}

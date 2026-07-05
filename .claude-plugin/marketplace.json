@@ -1,0 +1,13 @@
+{
+  "name": "biao-spec",
+  "owner": {
+    "name": "kyriewang"
+  },
+  "plugins": [
+    {
+      "name": "biao-spec",
+      "source": "./",
+      "description": "访谈式需求澄清 + 可审 spec + 实施计划的极简 SDD 技能对（biaospec-brainstorm + biaospec-plan）。"
+    }
+  ]
+}
