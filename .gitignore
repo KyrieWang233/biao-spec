@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 技能调试产物（评测 workspace、临时 spec）
+*-workspace/
+/tmp/
+
+# 依赖 / 构建（若将来加脚本）
+node_modules/
+dist/
