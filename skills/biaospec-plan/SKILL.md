@@ -7,7 +7,7 @@ description: 把已获批的 spec 拆成可执行、可勾选的实施计划（t
 
 ## 前置检查
 
-确认 spec 文件存在且状态行为"已批准"。用户没指明 spec 路径时，取 `docs/` 下最近的 `*-spec.md`，拿不准就直接问是哪份。没有 spec、或设计仍有含糊之处 → 先回 `biaospec-brainstorm` 澄清，不要凭空拆任务。
+确认 spec 文件存在且状态行为"已批准"。用户没指明 spec 路径时，取 `.biaospec/` 下最近的任务目录（按目录名日期排序）里的 `spec.md`，拿不准就直接问是哪个任务。没有 spec、或设计仍有含糊之处 → 先回 `biaospec-brainstorm` 澄清，不要凭空拆任务。
 
 ## 任务分解
 
